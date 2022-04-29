@@ -21,10 +21,10 @@ If more help is needed please contact: anshuman.agarwal@mail.utoronto.ca
 
 Data Sources: 
 
-- Population: U.S. Census Bureau, (2020) Decennial Census. [Data file]. Retrieved from:https://data.census.gov/cedsci/table?q=United%20States&t=Populations%20and %20People&g=0100000US%240500000&tid=DECENNIALPL2020.P1&hidePrevie w=true
-- Insurance: U.S. Census Bureau, (2020) 2015-2019 American Community Survey 5- Year Estimates [Data file]. Retrieved from: https://data.census.gov/cedsci/table?q=United%20States&t=Health%20Insurance&g= 0100000US%240500000&tid=ACSST5Y2019.S2701&hidePreview=true
-- Income & Poverty: U.S. Census Bureau, (2020) 2015-2019 American Community Survey 5-Year Estimates [Data file]. Retrieved from: https://data.census.gov/cedsci/table?q=United%20States&t=Poverty&g=0100000US %240500000&tid=ACSST5Y2019.S1701&hidePreview=true
-- Incidence: National Cancer Institute, (2020) SEER program. [Data file]. Retrieved from:https://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&a reatype=county&cancer=001&race=00&sex=0&age=001&stage=999&year=0&type =incd&sortVariableName=rate&sortOrder=desc&output=1
-- Mortality: National Cancer Institute, (2020) SEER program. [Data file]. Retrieved from:https://statecancerprofiles.cancer.gov/deathrates/index.php?stateFIPS=00&areat ype=county&cancer=001&race=00&sex=0&age=001&year=0&type=death&sortVari ableName=rate&sortOrder=desc&output=1
+- Population: U.S. Census Bureau, (2020) Decennial Census. [Data file]. Retrieved from:https://data.census.gov/cedsci/table?q=United%20States&t=Populations%20and%20People&g=0100000US%240500000&tid=DECENNIALPL2020.P1&hidePreview=true
+- Insurance: U.S. Census Bureau, (2020) 2015-2019 American Community Survey 5- Year Estimates [Data file]. Retrieved from: https://data.census.gov/cedsci/table?q=United%20States&t=Health%20Insurance&g=0100000US%240500000&tid=ACSST5Y2019.S2701&hidePreview=true
+- Income & Poverty: U.S. Census Bureau, (2020) 2015-2019 American Community Survey 5-Year Estimates [Data file]. Retrieved from: https://data.census.gov/cedsci/table?q=United%20States&t=Poverty&g=0100000US%240500000&tid=ACSST5Y2019.S1701&hidePreview=true
+- Incidence: National Cancer Institute, (2020) SEER program. [Data file]. Retrieved from:https://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&stage=999&year=0&type=incd&sortVariableName=rate&sortOrder=desc&output=1
+- Mortality: National Cancer Institute, (2020) SEER program. [Data file]. Retrieved from:https://statecancerprofiles.cancer.gov/deathrates/index.php?stateFIPS=00&areatype=county&cancer=001&race=00&sex=0&age=001&year=0&type=death&sortVariableName=rate&sortOrder=desc&output=1
 - SVI: Centers for Disease Control and Prevention/ Agency for Toxic Substances and Disease Registry/ Geospatial Research, Analysis, and Services Program. CDC/ATSDR Social Vulnerability
-Index [2018] Database [US]. https://www.atsdr.cdc.gov/placeandhealth/svi/data_docu mentation_download.html. Accessed on [20-04-2022].
+Index [2018] Database [US]. https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html. Accessed on [20-04-2022].
